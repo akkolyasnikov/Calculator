@@ -9,6 +9,8 @@
 		$("#mul").val('0');
 		$('#result').val(priceVal)
 		$('#result').css('color','white')//скрыли итог
+		this.style.backgroundColor = '#483D8B'
+	} 
 	} 
 	else
 	{
